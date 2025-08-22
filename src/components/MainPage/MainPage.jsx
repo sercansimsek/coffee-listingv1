@@ -5,7 +5,7 @@ export const MainPage = () => {
 	return (
 		<div className="mainPage">
 			<img
-				src="/src/assets/images/bg-cafe-sm.jpg"
+				src="src/assets/images/bg-cafe-sm.jpg"
 				alt="main"
 				className="main-image"
 			/>

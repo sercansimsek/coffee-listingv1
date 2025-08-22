@@ -29,7 +29,7 @@ export const CoffeeCard = ({ coffee }) => {
 							<div className="card-rating">
 								<img
 									className="card-star_full"
-									src="/src/assets/images/Star_fill.svg"
+									src="src/assets/images/Star_fill.svg"
 									alt="star"
 								/>
 								<p className="card-rate">{(+coffee.rating).toFixed(2)}</p>
@@ -39,7 +39,7 @@ export const CoffeeCard = ({ coffee }) => {
 							<div className="card-rating">
 								<img
 									className="card-star_empty"
-									src="/src/assets/images/Star.svg"
+									src="src/assets/images/Star.svg"
 									alt="empty-star"
 								/>
 								<p className="no-rate">No ratings</p>
