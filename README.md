@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://sercansimsek.github.io/simple-coffee-listing/">
+    <a href="https://sercansimsek.github.io/coffee-listingv1/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sercansimsek/simple-coffee-listing">
+    <a href="https://github.com/sercansimsek/coffee-listingv1">
       Solution
     </a>
     <span> | </span>
@@ -26,7 +26,6 @@
 
 - [Overview](#overview)
 - [What I learned](#what-i-learned)
-
 - [Built with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
