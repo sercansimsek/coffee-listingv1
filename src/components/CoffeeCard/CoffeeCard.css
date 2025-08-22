@@ -1,0 +1,96 @@
+.card {
+	font-family: DM Sans, serif;
+	max-width: 261px;
+	height: 100%;
+
+	margin-bottom: 2em;
+}
+
+li {
+	list-style: none;
+}
+
+.card-hero {
+	position: relative;
+}
+
+.card-main_img {
+	border-radius: 1em;
+	margin-bottom: 0.7em;
+}
+
+.none {
+	display: none;
+}
+.popular {
+	position: absolute;
+	top: 0.7em;
+	left: 0.7em;
+
+	background-color: #f6c768;
+	border-radius: 1em;
+	padding: 0.1em 0.8em;
+
+	font-size: 10px;
+	font-weight: 400;
+}
+
+.card-info {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	margin-bottom: 0.7em;
+}
+
+.card-name {
+	font-size: 16px;
+	font-weight: 500;
+	color: #fef7ee;
+}
+
+.card-price {
+	background-color: #bee3cc;
+	border-radius: 0.3em;
+
+	font-size: 12px;
+	font-weight: 600;
+
+	padding: 0.1em 0.4em;
+}
+
+.rating-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.card-rating {
+	display: flex;
+	align-items: center;
+	gap: 0.2em;
+}
+
+.card-rate {
+	color: #fef7ee;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.card-vote {
+	color: #6f757c;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.no-rate {
+	color: #6f757c;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.sold-out {
+	color: #ed735d;
+	font-size: 14px;
+	font-weight: 600;
+}

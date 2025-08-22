@@ -1,0 +1,28 @@
+html,
+body {
+	background-color: #111315;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+
+	position: relative;
+}
+
+.mainHeader {
+	position: absolute;
+	top: 6em;
+	left: 1.5em;
+	right: 1.5em;
+}
+
+.main-image {
+	width: 100vw;
+	height: 40vh;
+  object-fit: cover;
+}
+
+@media screen and (min-width: 640px){ 
+	.main.image {
+		background-image: '//src/assets/images/bg-cafe-lg.jpg';
+	}
+}
