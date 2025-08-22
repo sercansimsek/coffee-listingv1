@@ -18,11 +18,11 @@ body {
 .main-image {
 	width: 100vw;
 	height: 40vh;
-  object-fit: cover;
+	object-fit: cover;
 }
 
-@media screen and (min-width: 640px){ 
+@media screen and (min-width: 640px) {
 	.main.image {
-		background-image: '//src/assets/images/bg-cafe-lg.jpg';
+		background-image: url("../../assets/images/bg-cafe-lg.jpg");
 	}
 }
